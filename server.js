@@ -5,12 +5,12 @@ const uuid = require("uuid");
 const fs = require("fs");
 const products = require("./data.json");
 
+const {getProducts} = require('./controllers/productController')
+
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
-app.get("/api/products", (req, res) => {
-  res.send(products);
-});
+app.get("/api/products", getProducts)
 
 app.get("/api/products/:productId", (req, res) => {
   const { productId } = req.params;
