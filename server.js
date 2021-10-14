@@ -5,25 +5,14 @@ const uuid = require("uuid");
 const fs = require("fs");
 const products = require("./data.json");
 
-const {getProducts} = require('./controllers/productController')
+const {getProducts,getProduct} = require('./controllers/productController')
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 
 app.get("/api/products", getProducts)
 
-app.get("/api/products/:productId", (req, res) => {
-  const { productId } = req.params;
-  const product = products.find((p) => p.id == productId);
-
-  if (!product) {
-    res.send({
-      message: "Product Not fund",
-    });
-  } else {
-    res.send(product);
-  }
-});
+app.get("/api/products/:id", getProduct)
 
 app.post("/api/products", (req, res) => {
   const { name, description, price } = req.body;
