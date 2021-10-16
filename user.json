@@ -1,0 +1,151 @@
+[
+  {
+    "id": 1,
+    "fullName": "John Doe",
+    "age": 25,
+    "username": "john",
+    "password": "password"
+  },
+  {
+    "id": 2,
+    "fullName": "Harry Potter",
+    "age": 20,
+    "username": "harry",
+    "password": "password123"
+  },
+  {
+    "id": "de6ed6bd-e3f9-47e4-9e46-fdeee0b76f0d",
+    "fullName": "asad",
+    "age": 12,
+    "username": "asad",
+    "password": {}
+  },
+  {
+    "id": "5fb1f38b-7f60-4569-bcba-4c6a362c98e5",
+    "fullName": "asad",
+    "age": 12,
+    "username": "asade",
+    "password": "$2a$12$M2F1J7GL.4ehgRbA8DWhz.4Sprx9vbr4C82CG8k6VwgIDxH..sgQK"
+  },
+  {
+    "id": "0fa3e34b-2dc2-48a7-858f-75b917c52048",
+    "fullName": "John Smith",
+    "age": 34,
+    "username": "admin",
+    "password": "$2a$12$K3gJCLOigkWwsPYNQwPLY.nfBkoiQIhK4wxmi5ocwAOmHQOPilpM6",
+    "role": "admin"
+  },
+  {
+    "id": "d4c822f8-4fa7-4b53-83b8-e59a5513ed37",
+    "fullName": "Ann Smith",
+    "age": 34,
+    "username": "seller",
+    "password": "$2a$12$TwBJ/w/z95y3k2jMbUF5o.qV0YOmvjqOtFVRs2y3BeWr80R7plq9W",
+    "role": [
+      "seller",
+      "admin"
+    ]
+  },
+  {
+    "id": "bbce8fae-3583-480d-8417-58fc8425b441",
+    "fullName": "asad",
+    "age": 12,
+    "username": "asadea",
+    "password": "$2a$12$PzfYozC8lxBRBY2zUd2R8ejzYjaescnmfB/VQmUI6mvTdmdn/3Cny"
+  },
+  {
+    "id": "92a79e43-0894-466a-b3e4-f7f516659c84",
+    "fullName": "asad",
+    "age": 12,
+    "username": "asadeaa",
+    "password": "$2a$12$Ocs3tAfyvF89CAm1xCOqm.PQHkUo5saZb9oJz40J6V6gOUsnlMFmW"
+  },
+  {
+    "id": "13f661b4-b22c-415a-826b-b3b4af60e365",
+    "fullName": "asad",
+    "age": 12,
+    "username": "asadeaaa",
+    "password": "$2a$12$ubgPYutjGDI6kKj5U6H8guko1SoDG7OFLV5ijPwPJvI85LsWtfsIO"
+  },
+  {
+    "id": "8d957810-2dc5-4d20-bf7a-961e27f886fa",
+    "fullName": "asad",
+    "age": 12,
+    "username": "",
+    "password": "$2a$12$cuU8LHwXns5bt4NSUX.pbOqKtebJbgr.Fp9SC8Q/FM1nPYzDI9oj."
+  },
+  {
+    "id": "88e46dcc-11aa-4a68-b63c-1d1d3e2aff27",
+    "fullName": "asad",
+    "age": 12,
+    "username": "sdd",
+    "password": "$2a$12$C17MIjQLOVTPuoUtA.KG0.7LfiaDNiCgw5QVSuHfaTXknc6ThtuzC"
+  },
+  {
+    "id": "d794d9ad-b54c-42e6-9c82-a58957e85db9",
+    "fullName": "asad",
+    "age": 12,
+    "username": "sdda",
+    "password": "$2a$12$LTlU/6m.wmNSdS7QOaIiwe2vbGVRNSBEFO5tMNAf.adNIK8EhcjgW"
+  },
+  {
+    "id": "713c0d68-5f1e-49eb-88b5-c915c628fecb",
+    "fullName": "asad",
+    "age": 12,
+    "username": "sddaa",
+    "role": "admin",
+    "password": "$2a$12$pbkg15tCVK8Z50BEY3TLmus6Bwg5FqN3ebESA0hfXdphbMJb4F7S2"
+  },
+  {
+    "id": "c99e0939-0ef9-4431-89b3-884f473222d9",
+    "fullName": "asad",
+    "age": 12,
+    "username": "a",
+    "role": "admin",
+    "password": "$2a$12$FDkpq2Cge.60VVnZ2qMf7Ohd6K1X8dGot3D7038e5e/7w7fzv7DTO"
+  },
+  {
+    "id": "5be51378-0ca0-4711-939e-5aafeef01102",
+    "fullName": "",
+    "age": 12,
+    "username": "aa",
+    "role": "admin",
+    "password": "$2a$12$DUYLE17RsJZxFJzZbittH.KGDcnDJTxHE4ffdHLpKgHKZ5i2Prv3G"
+  },
+  {
+    "id": "cccb0a94-21d7-4a1b-963e-abc9bd0ed0e0",
+    "fullName": "sd",
+    "age": "",
+    "username": "sds",
+    "role": "admin",
+    "password": "$2a$12$arhTILqKCEJPoBlBJc4vweejUyuyT6M1lS4fknP2PdWYm6hsahib."
+  },
+  {
+    "id": "43a55f2f-75ed-4ba8-8920-58b82defd4fd",
+    "fullName": "sd",
+    "age": 12,
+    "username": "dsd",
+    "role": "admin",
+    "password": "$2a$12$I2nYo4a1zcmP.fN49XrAHetjst/CBZF.MpxihZmNm2hHmDziwNAMW"
+  },
+  {
+    "id": "1f38cb6a-a71a-4f8a-b563-0112634d35aa",
+    "fullName": "sd",
+    "age": 12,
+    "username": "islom",
+    "role": 
+      "seller",
+    "password": "$2a$12$DuMVKbFUaBQ9ZjZpSHUZBe84TKoowxjXptkg./qvPEMUlnNxGm4KS"
+  },
+  {
+    "id": "9a02832b-9c59-406c-a4c1-c5515f3ce941",
+    "fullName": "sd",
+    "age": 12,
+    "username": "islomb",
+    "role": [
+      "amin",
+      "seller"
+    ],
+    "password": "$2a$12$G6Z/BbDJrGBbk1QMIcC8c.4BQZ6yvMRK5buhrmL.KENpMAmVJ7a0."
+  }
+]
